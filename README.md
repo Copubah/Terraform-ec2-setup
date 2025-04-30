@@ -4,7 +4,7 @@ This project deploys an Amazon EC2 instance in a custom VPC using Terraform. It 
 - A security group allowing SSH access
 - A locally saved key pair for SSH access
 
-## ✅ Prerequisites
+## Prerequisites
 
 - [Terraform](https://developer.hashicorp.com/terraform/downloads)
 - [AWS CLI](https://aws.amazon.com/cli/) (configured with `aws configure`)
